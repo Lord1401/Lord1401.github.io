@@ -11,3 +11,11 @@ section#stage{
     flex-direction: column;
     align-items: center;
 }
+
+    #projets{  
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+
+ }  
+    
